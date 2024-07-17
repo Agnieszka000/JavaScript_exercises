@@ -1,1 +1,1 @@
-Python, JavaScript exercises
+JavaScript exercises
